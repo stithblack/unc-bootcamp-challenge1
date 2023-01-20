@@ -24,7 +24,7 @@ in order to meet the acceptance criteria.
 
 The following image shows the web application's appearance and functionality:
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.]
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](https://user-images.githubusercontent.com/24467248/213618861-e586f33e-ae4a-4bcb-a900-e5cb45c43f3e.png)
 
 ## Link
 
