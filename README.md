@@ -28,4 +28,4 @@ The following image shows the web application's appearance and functionality:
 
 ## Link
 
-Navigate to https://github.com/stithblack/unc-bootcamp-challenge1/settings/pages to view the application.
+Navigate to https://stithblack.github.io/unc-bootcamp-challenge1/ to view the application.
